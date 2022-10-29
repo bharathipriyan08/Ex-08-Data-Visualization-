@@ -17,6 +17,11 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 
+```
+DEVELOPED BY : BHARATHI PRIYAN 
+REG NO : 212221040028
+```
+
 # CODE
 ```
 import pandas as pd
